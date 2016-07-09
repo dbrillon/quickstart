@@ -14,7 +14,7 @@ import { Hero } from './hero';
 
     <p *ngIf="heroes.length > 3">There are many heroes!</p>
     `
-})
+})   
 export class AppComponent {
   title = 'Tour of Heroes';
   heroes = [

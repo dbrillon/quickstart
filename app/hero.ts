@@ -1,3 +1,4 @@
+// Hero data model
 export class Hero{
     constructor(
         public id: number,
